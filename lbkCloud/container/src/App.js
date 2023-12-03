@@ -12,7 +12,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Just me testing</p>
-        <p>Don't mind me</p>
+        <p>Don't mind me - just doing what I can</p>
       </header>
       <hr />
 
