@@ -11,7 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Just a test</p>
+        <p>Just me testing</p>
       </header>
       <hr />
 
