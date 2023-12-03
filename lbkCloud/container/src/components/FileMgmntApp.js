@@ -1,4 +1,4 @@
-import { mount } from "filemngmnt/FileMngmnt";
+import { mount } from "filemgmt/FileMngmnt";
 import React, { useRef, useEffect } from "react";
 const FileMgmntApp = () => {
   const ref = useRef(null);
